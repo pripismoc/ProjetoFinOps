@@ -11,27 +11,23 @@ Este projeto simula uma análise de custos em nuvem para demonstrar habilidades 
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Python (Google Colab / Jupyter)
-- Power BI Desktop
-- Excel
+- Looker Studio
+- Google Sheets
 - GitHub
 
 ## 📁 Estrutura do Projeto
 
 data/ → Planilha de custos fictícios
-notebooks/ → Caderno com código de análise
-dashboard/ → Dashboard Power BI (.pbix)
-images/ → Prints do dashboard
+dashboard/ → Looker Studio
+Link/ → [Dashboard - FinOps Report](https://lookerstudio.google.com/reporting/f4a19890-c43f-4ce0-89dd-51a6cfcf2298)
 README.md → Este documento
 
 
 ## 📊 Principais Indicadores Gerados
 
-- Custo por serviço
-- Custo por unidade de negócio
-- Recursos com baixa utilização (< 20%)
-- Proporção de recursos com tags
-- Comparativo entre ambientes PROD, DEV e TEST
+- Variação do Custo do Mês
+- Custos por Time no mês corrente
+- Custos por Serviço no mês corrente
 
 ## ✅ Conclusões
 
@@ -43,9 +39,3 @@ README.md → Este documento
 
 - Criar modelo preditivo de custos
 - Integrar alertas de orçamento com Power Automate
-
----
-
-
-
-
