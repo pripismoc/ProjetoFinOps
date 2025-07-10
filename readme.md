@@ -19,7 +19,7 @@ Este projeto simula uma análise de custos em nuvem para demonstrar habilidades 
 
 data/ → Planilha de custos fictícios
 dashboard/ → Looker Studio
-Link/ → [Dashboard - FinOps Report](https://lookerstudio.google.com/reporting/f4a19890-c43f-4ce0-89dd-51a6cfcf2298)
+Link/ → [Dashboard - FinOps Report](https://lookerstudio.google.com/reporting/f4a19890-c43f-4ce0-89dd-51a6cfcf2298) →
 README.md → Este documento
 
 
